@@ -48,7 +48,7 @@ It helps decision-makers track performance, understand customer behavior, and id
 
 | Screenshot | Description |
 |-------------|-------------|
-| ![Dashboard Screenshot](images/dashboard_preview.png) | Main dashboard view showing KPIs and trends |
+| ![Dashboard Screenshot](<img width="1557" height="653" alt="Coffee Shop Sales Dashboard" src="https://github.com/user-attachments/assets/58c32b7d-f9ec-446b-87fd-7e8ceaafc6a8" />) | Main dashboard view showing KPIs and trends |
 | ![Pivot View](images/pivot_tables.png) | Pivot tables and backend data model |
 
 ---
