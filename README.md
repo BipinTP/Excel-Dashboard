@@ -1,7 +1,7 @@
 # ☕ Coffee Shop Sales Dashboard — Excel Project
 
 An interactive **Excel Dashboard** that analyzes and visualizes sales performance for a fictional coffee shop chain.  
-This project demonstrates data cleaning, transformation, and dashboard design using Excel tools like **Power Query, Pivot Tables, and GETPIVOTDATA**.
+This project demonstrates data cleaning, transformation, and dashboard design using Excel tools like **Power Query, Pivot Tables **.
 
 ---
 
