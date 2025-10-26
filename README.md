@@ -62,6 +62,5 @@ It helps decision-makers track performance, understand customer behavior, and id
 
 ---
 
-## 📂 Project Structure
 
 
