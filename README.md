@@ -44,15 +44,6 @@ It helps decision-makers track performance, understand customer behavior, and id
 
 ---
 
-## 📸 Dashboard Preview
-
-| Screenshot | Description |
-|-------------|-------------|
-| ![Dashboard Screenshot]() | Main dashboard view showing KPIs and trends |
-| ![Pivot View](images/pivot_tables.png) | Pivot tables and backend data model |
-
----
-
 ## 📈 Key Insights
 
 - ☕ **Peak Sales Hours:** Highest sales occur between 8 AM – 11 AM (morning rush).  
